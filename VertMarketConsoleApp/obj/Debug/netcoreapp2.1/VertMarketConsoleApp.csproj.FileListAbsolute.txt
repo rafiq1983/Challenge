@@ -1,0 +1,14 @@
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\bin\Debug\netcoreapp2.1\VertMarketConsoleApp.deps.json
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\bin\Debug\netcoreapp2.1\VertMarketConsoleApp.runtimeconfig.json
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\bin\Debug\netcoreapp2.1\VertMarketConsoleApp.runtimeconfig.dev.json
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\bin\Debug\netcoreapp2.1\VertMarketConsoleApp.dll
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\bin\Debug\netcoreapp2.1\VertMarketConsoleApp.pdb
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\obj\Debug\netcoreapp2.1\VertMarketConsoleApp.csprojAssemblyReference.cache
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\obj\Debug\netcoreapp2.1\VertMarketConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\obj\Debug\netcoreapp2.1\VertMarketConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\obj\Debug\netcoreapp2.1\VertMarketConsoleApp.AssemblyInfo.cs
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\obj\Debug\netcoreapp2.1\VertMarketConsoleApp.csproj.CopyComplete
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\obj\Debug\netcoreapp2.1\VertMarketConsoleApp.dll
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\obj\Debug\netcoreapp2.1\VertMarketConsoleApp.pdb
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\bin\Debug\netcoreapp2.1\VertMarket.BusinessLayer.dll
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarketConsoleApp\bin\Debug\netcoreapp2.1\VertMarket.BusinessLayer.pdb

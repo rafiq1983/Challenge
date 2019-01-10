@@ -1,0 +1,9 @@
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\bin\Debug\netcoreapp2.1\VertMarket.BusinessLayer.deps.json
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\bin\Debug\netcoreapp2.1\VertMarket.BusinessLayer.dll
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\bin\Debug\netcoreapp2.1\VertMarket.BusinessLayer.pdb
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\obj\Debug\netcoreapp2.1\VertMarket.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\obj\Debug\netcoreapp2.1\VertMarket.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\obj\Debug\netcoreapp2.1\VertMarket.BusinessLayer.AssemblyInfo.cs
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\obj\Debug\netcoreapp2.1\VertMarket.BusinessLayer.dll
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\obj\Debug\netcoreapp2.1\VertMarket.BusinessLayer.pdb
+C:\Users\Rahmed\source\repos\VertMarkets\VertMarkers.BusinessLayer\obj\Debug\netcoreapp2.1\VertMarket.BusinessLayer.csprojAssemblyReference.cache
